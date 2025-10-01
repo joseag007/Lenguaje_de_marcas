@@ -1,0 +1,22 @@
+<libros>
+    <libro>
+        <titulo>Don Quijote de la Mancha</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <anio_publicacion>1605</anio_publicacion>
+        <genero>Novela de caballería</genero>
+    </libro>
+
+    <libro>
+        <titulo>Los juegos del hambre</titulo>
+        <autor>Suzanne Collins</autor>
+        <anio_publicacion>2008</anio_publicacion>
+        <genero>Distopía, Aventura</genero>
+    </libro>
+
+    <libro>
+        <titulo>El corredor del laberinto</titulo>
+        <autor>James Dashner</autor>
+        <anio_publicacion>2009</anio_publicacion>
+        <genero>Distopía, Ciencia ficción</genero>
+    </libro>
+</libros>

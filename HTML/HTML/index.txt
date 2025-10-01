@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Jose Abril Garcia </title>
+</head>
+<body>
+<h1>José Abril García</h1>
+<p>Me llamo Jose Abril García, tengo <i>18</i> años y vengo de las esclavas.</br>
+En bachillerato di algo de Html.</p>
+<p>Alguno de mis hobbies son:</br> <ul><li>diseño 3D</li>
+    <li>impresión 3D</li>
+    <li>leer</li></ul></p>
+<a href="https://search.brave.com/images?q=html&source=web">Imagen html</a>
+</body>
+</html>
