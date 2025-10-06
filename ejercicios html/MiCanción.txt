@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Goosebumps</title>
+    <meta name="description" content="Página sobre la canción Goosebumps de Travis Scott." />
+    <meta name="keywords" content="canción, Travis, Scott, Goosebumps" />
+
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Courgette&family=Mea+Culpa&display=swap');
+
+        body {
+            font-family: 'Courgette', cursive, Arial, sans-serif;
+            background-color: #e0f0ff;
+            margin: 0;
+            padding: 20px 80px;
+            color: #333;
+        }
+
+        h1 {
+            text-align: center;
+            font-family: Arial, sans-serif;
+            color: navy;
+            margin-bottom: 0;
+        }
+
+        h2 {
+            text-align: center;
+            font-family: Arial, sans-serif;
+            color: darkred;
+            margin-top: 5px;
+            margin-bottom: 20px;
+        }
+
+        p {
+            text-align: center;
+            font-size: 1.1em;
+            line-height: 1.5em;
+        }
+
+        .letra {
+            font-family: 'Mea Culpa', cursive, Arial, sans-serif;
+            background-color: lightblue;
+            border: 1px solid black;
+            padding: 15px;
+            margin: 20px auto;
+            max-width: 600px;
+            text-align: center;
+            border-radius: 8px;
+        }
+
+        img {
+            display: block;
+            margin: 20px auto;
+            border-radius: 15px;
+            width: 300px;
+            height: 300px;
+            object-fit: cover;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Goosebumps</h1>
+    <h2>Travis Scott</h2>
+
+    <p>
+        Yeah<br />
+        Seven-thirty in the night, yeah<br />
+        Ooh
+    </p>
+
+    <div class="letra">
+        I get those <strong>goosebumps</strong> every time, yeah<br />
+        You come around, yeah<br />
+        You ease my mind, you make everything feel <em>fine</em><br />
+        Worry about those comments<br />
+        I'm way too numb, yeah<br />
+        It's way too dumb, yeah
+    </div>
+
+    <a href="https://es.wikipedia.org/wiki/Travis_Scott" target="_blank" rel="noopener noreferrer">
+        <img src="https://imgs.search.brave.com/Qi2ohmPugedBUMK0NyCdho-git--lTRjGbCoX8pvNLo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9odHRw/Mi5tbHN0YXRpYy5j/b20vRF9OUV9OUF85/MjE0MzQtTUxVNzkz/ODYyODU2OTFfMDky/MDI0LU8ud2VicA"
+             alt="portada rodeo Travis Scott" />
+    </a>
+
+</body>
+</html>
